@@ -7,7 +7,7 @@ Ok this
 
 the project goes
 
-```
+```python
 def hello():
   """ this is a  comment
   """
@@ -16,10 +16,6 @@ def hello():
 ```
 
 what do we do 
-
-
-
-
 
 now 
 
